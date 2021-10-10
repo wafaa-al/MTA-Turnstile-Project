@@ -5,5 +5,5 @@ SDAIA T5 Data Science Bootcamp EDA Project
 
 * [Project Proposal](Proposal.md)
 * [MVP](MVP.md)
-* [CODE](CODE.jypter)
+* [CODE](CODE.ipynb)
 * [Final Project](Writeup.md)
