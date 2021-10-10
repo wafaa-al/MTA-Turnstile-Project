@@ -56,4 +56,12 @@ Different analysis was implemented to answer the following questions in most cro
 - SQLAlchemy
 - NumPy
 
+## Communication:
+<img src="https://github.com/Wafaa-Alharbi/MTA-Turnstile-Project/blob/main/images/Femele%20in%20nyc.PNG" alt="drawing" width="600"/>
+<img src="https://github.com/Wafaa-Alharbi/MTA-Turnstile--/blob/main/images/MOST%20CROWDED%20STATIONS1.png" alt="drawing" width="600"/>
+<img src="https://github.com/Wafaa-Alharbi/MTA-Turnstile-Project/blob/main/images/Top5Stations.png" alt="drawing" width="600"/>
+<img src="https://github.com/Wafaa-Alharbi/MTA-Turnstile-Project/blob/main/images/NumberOfEntries-Day.png" alt="drawing" width="600"/>
+
+
+
 
