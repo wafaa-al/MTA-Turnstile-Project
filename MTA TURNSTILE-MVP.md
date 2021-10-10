@@ -15,6 +15,7 @@ new products
 ### Methodology of exploring the data:
 1. Each subway station was mapped with its zipcode to find all stations in Brooklyn.
 2. Different analysis was implemented to answer the following questions in crowded stations:
+
 2.1) Are subway commuters in weekdays different than weekends?
 
 2.2) Is there specific time the subway gets busy?
