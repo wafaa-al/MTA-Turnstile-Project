@@ -1,7 +1,7 @@
 
 # MTA Exploratory Data Analysis Project
 
-SDAIA T5 Data Science Bootcamp EDA Project
+This Project is done during SDAIA T5 Data Science Bootcamp and Contains:
 
 * [Project Proposal](Proposal.md)
 * [MVP](MVP.md)
