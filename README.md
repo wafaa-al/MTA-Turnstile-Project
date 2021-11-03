@@ -6,4 +6,4 @@
 * [Project Proposal](Proposal.md)
 * [MVP](MVP.md)
 * [CODE](CODE.ipynb)
-* [Final Project](Writeup.md)
+* [Final Project Report](Writeup.md)
